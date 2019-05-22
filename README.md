@@ -17,4 +17,14 @@ cd WhiskySix-FB-BF
 
 chmod +x *
 
-python2 WhiskySix-FB-BF.py
+python2 WhiskySix-Fb-Bf.py
+
+Note:
+
+This program work automatically.
+
+This is not good.
+
+Edit pass.txt target name or birth-date. This is better work to get target password.
+
+Thank You! For using my tool. Good luck. 
