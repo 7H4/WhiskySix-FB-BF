@@ -146,7 +146,7 @@ def life():
 def runn_noobs():
          global password_list
 
-lop = GG+"""
+         lop= GG+"""
          `.-://////:-.`
      .:+o+:-..````..-:+o+:.
   `:o+-`                `:+o:`
