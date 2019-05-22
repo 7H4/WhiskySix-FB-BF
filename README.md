@@ -27,6 +27,6 @@ This program work automatically.
 
 This is not good.
 
-Edit pass.txt target name or birth-date. This is better work to get target password.
+Edit pass.txt target name or birth-date or other. This is better work to get target password.
 
 Thank You! For using my tool. Good luck. 
