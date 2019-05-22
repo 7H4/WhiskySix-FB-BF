@@ -2,7 +2,7 @@
 
 Facebook Buford
 
-To istall on Termux
+To install on Termux
 ====================
 
 apt update && apt upgrade
@@ -21,6 +21,7 @@ python2 WhiskySix-Fb-Bf.py
 
 
 Note:
+=====
 
 This program work automatically.
 
