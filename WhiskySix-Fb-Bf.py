@@ -46,20 +46,21 @@ def banner():
     runntxt( GG+"  √=============================================√")
     runntxt( WW+"  |            MOD BY: Whisky@Six.              |")
     runntxt( WW+"  |            FACEBOOK: The Maung              |")
-    runntxt( Y+"   |           INSTAGRAM: thaemaung.2            |")
+    runntxt(  Y+"  |           INSTAGRAM: thaemaung.2            |")
     runntxt( RR+"  |               Team : Alone.                 |")
     runntxt( GL+"  |---------------------------------------------|")
     runntxt( GL+"  |        We are The Union Of Myanmar          |")
     runntxt( GL+"  |---------------------------------------------|")
     runntxt( GG+"  √=============================================√")
-    runntxt( GL+"  |•••••••••   HACK FACEBOOK MAS (^_^)   •••••••••|")
-    runntxt( GG+"  √=============================================√")
+    runntxt( GL+"  |•••••••••   HACK FACEBOOK MAS (^_^) •••••••••|")
+    runntxt( GG+"  √=============================================√")     
+    runntxt(  G+"             https://www.github.com/7H4.         ")
+    runntxt( GG+"  √=============================================√")     
     runntxt( R+ "Let Start!")
     time.sleep(1.5)
     
 banner()
     
-print wd+"         https://www.github.com/7H4 "
 print GG+"╭────\033[91m[\033[96m User ID\033[95m / \033[96mUsername Target\033[91m ] "
 email_target = str(raw_input(GL+"\033[92m╰─o==[]::::::::::::::::>\033[93m  "))
 print " "
@@ -84,7 +85,7 @@ def pil():
 def edit_wordlist():
 
         print GG+" "
-        ed = str(raw_input("[?] Edit wordlist cuk.? \033[96;1m[y/n]: "))
+        ed = str(raw_input("[?] Edit wordlist.? \033[96;1m[y/n]: "))
         if ed == 'y' or ed == 'Y':
                 os.system('nano '+password_list)
                 pil()
@@ -148,7 +149,7 @@ def life():
 def runn_noobs():
          global password_list
 
-         lop = GG+"""
+         lop = GL+"""
 
 ▒█░░▒█ █░░█ ░▀░ █▀▀ █░█ █░░█ 　 ▄▀▀▄
 ▒█▒█▒█ █▀▀█ ▀█▀ ▀▀█ █▀▄ █▄▄█ 　 █▄▄░
