@@ -54,7 +54,7 @@ def banner():
     runntxt( GG+"  √=============================================√")
     runntxt( GL+"  |•••••••••   HACK FACEBOOK MAS (^_^) •••••••••|")
     runntxt( GG+"  √=============================================√")     
-    runntxt(  G+"             https://www.github.com/7H4.         ")
+    runntxt(  G+"  |          https://www.github.com/7H4         |")
     runntxt( GG+"  √=============================================√")     
     runntxt( R+ "Let Start!")
     time.sleep(1.5)
