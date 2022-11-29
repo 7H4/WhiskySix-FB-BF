@@ -29,6 +29,4 @@ This is not good.
 
 Edit pass.txt target name or birth-date or other. This is better work to get target password.
 
-You can send approximate password to my mail <whitehacker933@gmail.com> .
-
 Thank You! For using my tool. Good luck. 
